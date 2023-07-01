@@ -1,0 +1,275 @@
+.planed-toures-child {
+  position: absolute;
+  top: 880px;
+  left: 0;
+  width: 360px;
+  height: 124px;
+  object-fit: cover;
+}
+.p6,
+.phone-no3 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.p6 {
+  font-size: var(--font-size-xs);
+}
+.gmail-abc1234gmailcom-def56-container3,
+.phone-no-999999999999-container3 {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-hanalei-fill);
+  position: absolute;
+  top: 894px;
+  left: 5px;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 123px;
+  height: 28px;
+}
+.gmail-abc1234gmailcom-def56-container3 {
+  top: 893px;
+  left: 107px;
+  width: 135px;
+  height: 57px;
+}
+.screenshot-2023-06-30-203643-13,
+.screenshot-2023-06-30-203647-13 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 931px;
+  left: 236px;
+  width: 20px;
+  height: 16px;
+  background-image: url(./public/screenshot-20230630-203643-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.screenshot-2023-06-30-203647-13 {
+  top: 930px;
+  left: 265px;
+  background-image: url(./public/screenshot-20230630-203647-1@3x.png);
+}
+.screenshot-2023-06-30-203650-23 {
+  position: absolute;
+  top: 930px;
+  left: 294px;
+  width: 22px;
+  height: 16px;
+  object-fit: cover;
+}
+.follow-us3 {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-hanalei-fill);
+  font-size: var(--font-size-5xl);
+  position: absolute;
+  top: 892px;
+  left: 233px;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 184px;
+  height: 25px;
+}
+.aadykrantiv-logo-copy-32 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.about3,
+.stories3,
+.tours3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+}
+.about3 {
+  top: 18px;
+  left: 123px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), rgba(0, 0, 0, 0.2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 37px;
+  height: 20px;
+}
+.stories3,
+.tours3 {
+  top: 16px;
+  left: 182px;
+  color: var(--color-black);
+  width: 41px;
+  height: 12px;
+}
+.stories3 {
+  left: 235px;
+  width: 50px;
+}
+.planed-toures-item {
+  position: absolute;
+  top: 12px;
+  left: 286px;
+  border-radius: var(--br-7xs);
+  width: 67px;
+  height: 20px;
+  object-fit: cover;
+}
+.help-us2,
+.planed-toures2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 14px;
+  left: 293px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 53px;
+  height: 16px;
+}
+.planed-toures2 {
+  top: 48px;
+  left: 95px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-hanalei-fill);
+  color: var(--color-darkslateblue-200);
+  width: 159px;
+  height: 54px;
+}
+.screenshot-2023-06-30-181020-8 {
+  position: absolute;
+  top: 82px;
+  left: 8px;
+  width: 343px;
+  height: 170px;
+  object-fit: cover;
+}
+.planed-toures-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslateblue-100);
+  position: absolute;
+  top: 346px;
+  left: 10px;
+  border-radius: var(--br-7xs);
+  width: 150px;
+  height: 33px;
+}
+.some-info-on {
+  margin: 0;
+}
+.photo-gallary,
+.some-info-on-container {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xs);
+  position: absolute;
+  top: 265px;
+  left: 10px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 341px;
+  height: 71px;
+}
+.photo-gallary {
+  font-family: var(--font-hanalei-fill);
+  font-size: var(--font-size-xl);
+  top: 348px;
+  left: 18px;
+  color: var(--color-white);
+  width: 142px;
+  height: 22px;
+}
+.planed-toures-child1 {
+  position: absolute;
+  top: 410px;
+  left: 87px;
+  border-radius: var(--br-4xs);
+  width: 116px;
+  height: 108px;
+  object-fit: cover;
+}
+.planed-toures-child2 {
+  position: absolute;
+  top: 518.5px;
+  left: 116.42px;
+  width: 66px;
+  height: 66px;
+}
+.planed-toures-child3,
+.planed-toures-child4 {
+  position: absolute;
+  top: 432px;
+  left: 135px;
+  width: 19px;
+  height: 72px;
+  object-fit: cover;
+}
+.planed-toures-child4 {
+  top: 449px;
+  left: 102px;
+  width: 85px;
+  height: 19px;
+}
+.more-projects-soon-container1 {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-hanalei-fill);
+  font-size: var(--font-size-xl);
+  position: absolute;
+  top: 422px;
+  left: 231px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 98px;
+  height: 90px;
+}
+.planed-toures1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1004px;
+  overflow: hidden;
+}

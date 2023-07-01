@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-gurajada: Gurajada;
+  --font-inter: Inter;
+  --font-hanalei-fill: "Hanalei Fill";
+  --font-barlow-condensed: "Barlow Condensed";
+  --font-iceberg: Iceberg;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-xs: 12px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslateblue-100: #8f65a3;
+  --color-darkslateblue-200: #58336f;
+
+  /* border radiuses */
+  --br-7xs: 6px;
+  --br-4xs: 9px;
+}

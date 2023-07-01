@@ -1,0 +1,201 @@
+.donation-child,
+.screenshot-2023-06-30-203650-21 {
+  position: absolute;
+  top: 880px;
+  left: 0;
+  width: 360px;
+  height: 124px;
+  object-fit: cover;
+}
+.screenshot-2023-06-30-203650-21 {
+  top: 930px;
+  left: 294px;
+  width: 22px;
+  height: 16px;
+}
+.screenshot-2023-06-30-203647-11 {
+  cursor: pointer;
+  padding: 0;
+  top: 930px;
+  left: 265px;
+  width: 20px;
+  height: 16px;
+  background-image: url(./public/screenshot-20230630-203647-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.follow-us1,
+.screenshot-2023-06-30-203643-11,
+.screenshot-2023-06-30-203647-11 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.screenshot-2023-06-30-203643-11 {
+  cursor: pointer;
+  padding: 0;
+  top: 931px;
+  left: 236px;
+  width: 20px;
+  height: 16px;
+  background-image: url(./public/screenshot-20230630-203643-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.follow-us1 {
+  font-family: var(--font-hanalei-fill);
+  font-size: var(--font-size-5xl);
+  top: 892px;
+  left: 233px;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 184px;
+  height: 25px;
+}
+.p2,
+.phone-no1 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.p2 {
+  font-size: var(--font-size-xs);
+}
+.gmail-abc1234gmailcom-def56-container1,
+.phone-no-999999999999-container1 {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-hanalei-fill);
+  position: absolute;
+  top: 894px;
+  left: 5px;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 123px;
+  height: 28px;
+}
+.gmail-abc1234gmailcom-def56-container1 {
+  top: 893px;
+  left: 107px;
+  width: 135px;
+  height: 57px;
+}
+.aadykrantiv-logo-copy-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.about1,
+.stories1,
+.tours1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+}
+.about1 {
+  top: 18px;
+  left: 123px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), rgba(0, 0, 0, 0.2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 37px;
+  height: 20px;
+}
+.stories1,
+.tours1 {
+  top: 16px;
+  left: 182px;
+  color: var(--color-black);
+  width: 41px;
+  height: 12px;
+}
+.stories1 {
+  left: 235px;
+  width: 50px;
+}
+.donation-item {
+  position: absolute;
+  top: 12px;
+  left: 286px;
+  border-radius: var(--br-7xs);
+  width: 67px;
+  height: 20px;
+  object-fit: cover;
+}
+.help-us {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 14px;
+  left: 293px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 53px;
+  height: 16px;
+}
+.aee977ce-f946-4451-8b9e-bba278-icon {
+  position: absolute;
+  top: 84px;
+  left: 41px;
+  width: 277px;
+  height: 299px;
+  object-fit: cover;
+}
+.upi-id-xxxxxxxxx {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-xl);
+  position: absolute;
+  top: 383px;
+  left: 48px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 270px;
+  height: 38px;
+}
+.donation1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1004px;
+  overflow: hidden;
+}
